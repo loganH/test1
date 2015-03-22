@@ -1,5 +1,9 @@
 <?php
 
 
-echo 'echo';
+function print_me() {
+  echo 'dfdfdf';
+}
 
+
+print_me();
