@@ -6,4 +6,4 @@ function print_me() {
 }
 
 
-print_me();
+print_me_one();

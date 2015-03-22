@@ -1,0 +1,13 @@
+diff --git a/mydir/test.php b/mydir/test.php
+index d2ca139..5a6ad3f 100644
+--- a/mydir/test.php
++++ b/mydir/test.php
+@@ -2,7 +2,7 @@
+ 
+ 
+ function print_me() {
+-  echo 'dfdfdf';
++  print 'dfdfdf';
+ }
+ 
+ 
